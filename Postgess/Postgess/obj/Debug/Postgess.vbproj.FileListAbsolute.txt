@@ -1,0 +1,50 @@
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\bin\Debug\Postgess.exe.config
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\bin\Debug\Postgess.exe
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\bin\Debug\Postgess.pdb
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\bin\Debug\Postgess.xml
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.Resources.resources
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.vbproj.GenerateResource.Cache
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.exe
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.xml
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.pdb
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.frm_Login.resources
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.frm_Profiling.resources
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.ListForm.resources
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.OptionYesNoForm.resources
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.CreateUserForm.resources
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.CreateRoleForm.resources
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.ChangeConnectionForm.resources
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.vbprojResolveAssemblyReference.cache
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.PrintForm.resources
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\RdlCompile.cache
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\RdlCompile.compiled
+C:\Users\ljrizen\Desktop\SampleEx\Postgess\Postgess\obj\Debug\Postgess.HistoryLogForm.resources
+D:\Project Output\EmployeeProfiling\Postgess\Postgess\bin\Debug\Postgess.exe.config
+D:\Project Output\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.exe
+D:\Project Output\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.xml
+D:\Project Output\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.pdb
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\bin\Debug\Postgess.exe.config
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.exe
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.xml
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.pdb
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\bin\Debug\Postgess.exe
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\bin\Debug\Postgess.pdb
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\bin\Debug\Postgess.xml
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.vbprojResolveAssemblyReference.cache
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.ChangeConnectionForm.resources
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.CreateRoleForm.resources
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.CreateUserForm.resources
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.frm_Login.resources
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.frm_Profiling.resources
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.HistoryLogForm.resources
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.ListForm.resources
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.Resources.resources
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.OptionYesNoForm.resources
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.PrintForm.resources
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.vbproj.GenerateResource.Cache
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\RdlCompile.cache
+C:\Users\Fluffy\Documents\Visual Studio 2012\Projects\EmployeeProfiling\Postgess\Postgess\obj\Debug\RdlCompile.compiled
+F:\1\EmployeeProfiling\Postgess\Postgess\bin\Debug\Postgess.exe.config
+F:\1\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.exe
+F:\1\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.xml
+F:\1\EmployeeProfiling\Postgess\Postgess\obj\Debug\Postgess.pdb
